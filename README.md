@@ -1,1 +1,1 @@
-# kodego-lesson-4
+# KodeGo lesson 3
